@@ -29,4 +29,4 @@ A collection of Python exercises and projects covering fundamental concepts — 
 
 ---
 
-> Built with AI. Pushed with Cursor. Python made effortless.
+> Learning Python, one project at a time — deployed with Cursor AI.
